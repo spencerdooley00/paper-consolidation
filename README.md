@@ -9,4 +9,6 @@
 
 [Topic Modeling using LDA2Vec](https://raw.githubusercontent.com/spencerdooley00/paper-consolidation/main/ML%20Final%20Report.pdf)
 
+[Analyzing Parent’s Conversation and Attitudes Surrounding Vaccines Using Computational Linguistic Analysis](https://raw.githubusercontent.com/spencerdooley00/paper-consolidation/main/FinalProject_CSYS300.pdf)
+
 
