@@ -1,7 +1,7 @@
 # paper-consolidation
 
 
-[NBA Clustering Player Archetypes](https://raw.githubusercontent.com/spencerdooley00/paper-consolidation/main/NBAclustering.pdf.pdf)
+[NBA Clustering Player Archetypes](https://raw.githubusercontent.com/spencerdooley00/paper-consolidation/main/NBAclustering.pdf)
 
 [Computationally analyzing conversations amongst those with memory loss](https://raw.githubusercontent.com/spencerdooley00/paper-consolidation/main/ConversationInTheWild.ZeiglerPoster.KEG.5.8.pdf)
 
